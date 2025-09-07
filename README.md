@@ -1,9 +1,5 @@
-<!-- Banner Animasi -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Nexertc!;Web+Developer+%7C+Frontend+%2B+Backend;HTML+%7C+CSS+%7C+JavaScript+%7C+PHP+%7C+MySQL;Love+to+build+cool+websites+%26+apps!" alt="Typing animation" />
-</p>
 
----
+
 
 # 💫 About Me  
 - 👨‍💻 Web Developer specializing in **HTML, CSS, JavaScript, PHP, MySQL**  
