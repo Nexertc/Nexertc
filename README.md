@@ -1,52 +1,72 @@
-<!-- Banner Title -->
+<!-- Banner -->
 <h1 align="center">⚡ Nexertc ⚡</h1>
-<h3 align="center">💻 Web Developer | HTML • CSS • JavaScript • PHP • MySQL 💻</h3>
+<h3 align="center">
+  Web Developer • UI/UX Designer
+</h3>
 
-<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Transforming+Ideas+Into+Code;Building+Modern+Websites;Frontend+%2B+Backend+Developer;Always+Learning+New+Tech" alt="Typing SVG" />
+  Turning ideas into functional & modern web experiences
+</p>
+
+<p align="center">
+  <a href="https://nexertc.github.io/websitear">
+    🌐 Visit My Website
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me  
-- 🌍 Based in Indonesia  
-- 🛠️ Skilled in **HTML, CSS, JavaScript, PHP, MySQL**  
-- 🎯 Focused on **responsive web design & backend logic**  
-- 🎨 I love mixing **creativity with clean code**  
-- ⚡ Motto: *Code smarter, not harder!*  
-
----
-
-## 🛠️ Tech & Tools  
+<!-- Hero Typing -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,tailwind,git,github,vscode,figma&perline=7" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Web+Developer;Frontend+%2B+Backend;UI%2FUX+Designer;HTML+CSS+JavaScript+PHP;Built+with+Logic+and+Design" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics  
+## 👋 About Me
+Saya adalah **Web Developer dari Indonesia** yang fokus membangun website modern, responsif, dan terstruktur dengan baik — dari **desain (Figma)** sampai **implementasi frontend & backend**.
+
+Detail lengkap tentang saya, project, dan perjalanan belajar bisa kamu lihat di website pribadi saya:
+
+👉 **https://nexertc.github.io/websitear**
+
+---
+
+## 🛠️ Skills & Technologies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nexertc&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" height="165"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma,bootstrap,tailwind,git,github,vscode&perline=6" />
+</p>
+
+**Core Skills:**
+- HTML, CSS, JavaScript  
+- PHP & MySQL  
+- UI/UX Design (Figma)  
+- Responsive Web Design  
+- Frontend & Backend Logic  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nexertc&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Nexertc&theme=chartreuse-dark&hide_border=true" height="165"/>
 </p>
 
+---
+
+## 🌐 Connect With Me
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nexertc&theme=high-contrast&hide_border=true" width="95%"/>
+  <a href="https://nexertc.github.io/websitear">
+    <img src="https://img.shields.io/badge/Website-39FF14?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+  </a>
+  <a href="https://github.com/Nexertc">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🌐 Let's Connect  
-<p align="center">
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Nexertc"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
-
----
-
-<h3 align="center">⭐ From <a href="https://github.com/Nexertc">Nexertc</a> ⭐</h3>
+<h4 align="center">
+  ⭐ More about me, projects, and experience → 
+  <a href="https://nexertc.github.io/websitear">Visit My Website</a>
+</h4>
