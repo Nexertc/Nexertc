@@ -1,5 +1,4 @@
 <!-- Banner -->
-<div background="blue">
 <h1 align="center">⚡ Nexertc ⚡</h1>
 <h3 align="center">
   Web Developer • UI/UX Designer
@@ -14,7 +13,6 @@
     🌐 Visit My Website
   </a>
 </p>
-</div>
 
 ---
 
