@@ -1,10 +1,10 @@
 <!-- Banner -->
+<div style="width:100%; background:red;">
 <h1 align="center">⚡ Nexertc ⚡</h1>
 <h3 align="center">
   Web Developer • UI/UX Designer
 </h3>
-
-<img src="https://nexertc.github.io/websitear/websitear/img/ardeva.png" alt="foto" width="50%">
+</div>
 
 <p align="center">
   Turning ideas into functional & modern web experiences
