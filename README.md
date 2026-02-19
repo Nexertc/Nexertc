@@ -4,7 +4,7 @@
   Web Developer • UI/UX Designer
 </h3>
 
-<img src="https://nexertc.github.io/websitear/websitear/img/ardeva.png" alt="foto">
+<img src="https://nexertc.github.io/websitear/websitear/img/ardeva.png" alt="foto" width="50%">
 
 <p align="center">
   Turning ideas into functional & modern web experiences
