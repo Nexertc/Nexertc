@@ -1,10 +1,10 @@
 <!-- Banner -->
-<div style="width:100%; background:red; height:100vh;">
+
 <h1 align="center">⚡ Nexertc ⚡</h1>
 <h3 align="center">
   Web Developer • UI/UX Designer
 </h3>
-</div>
+
 
 <p align="center">
   Turning ideas into functional & modern web experiences
