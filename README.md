@@ -17,7 +17,7 @@
 ### Building modern, responsive, and interactive web experiences
 
 <p>
-  <a href="https://nexertc.github.io/websitear">
+  <a href="https://nexertc.vercel.app">
     <img src="https://img.shields.io/badge/🌐_Portfolio-00ff99?style=for-the-badge&logo=googlechrome&logoColor=black"/>
   </a>
 
@@ -90,7 +90,7 @@ const Nexertc = {
 
 <div align="center">
 
-<a href="https://nexertc.github.io/websitear">
+<a href="https://nexertc.vercel.app">
   <img src="https://img.shields.io/badge/🌍_Website-00ff99?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 
