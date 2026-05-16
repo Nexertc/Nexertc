@@ -61,14 +61,6 @@ const Nexertc = {
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Nexertc&theme=transparent&hide_border=true&ring=00ff99&fire=00ff99&currStreakLabel=00ff99"/>
-
-</div>
-
 ---
 
 # 🚀 Featured Skills
