@@ -1,74 +1,111 @@
-<!-- Banner -->
+<!-- ========================= -->
+<!--        HEADER HERO        -->
+<!-- ========================= -->
 
-<h1 align="center">⚡ Nexertc ⚡</h1>
-<h3 align="center">
-  Web Developer • UI/UX Designer
-</h3>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Nexertc&fontAlign=50&fontAlignY=40&color=0:00ff99,100:00c3ff&fontColor=ffffff&fontSize=65&desc=Web%20Developer%20•%20UI/UX%20Designer&descAlignY=60"/>
 
-<p align="center">
-  Turning ideas into functional & modern web experiences
-</p>
+</div>
 
-<p align="center">
+---
+
+<div align="center">
+
+# ⚡ Welcome To My Profile ⚡
+
+### Building modern, responsive, and interactive web experiences
+
+<p>
   <a href="https://nexertc.github.io/websitear">
-    🌐 Visit My Website
+    <img src="https://img.shields.io/badge/🌐_Portfolio-00ff99?style=for-the-badge&logo=googlechrome&logoColor=black"/>
   </a>
-</p>
 
----
-
-<!-- Hero Typing -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Web+Developer;Frontend+%2B+Backend;UI%2FUX+Designer;HTML+CSS+JavaScript+PHP;Built+with+Logic+and+Design" />
-</p>
-
----
-
-## 👋 About Me
-Saya adalah **Web Developer dari Indonesia** yang fokus membangun website modern, responsif, dan terstruktur dengan baik — dari **desain (Figma)** sampai **implementasi frontend & backend**.
-
-Detail lengkap tentang saya, project, dan perjalanan belajar bisa kamu lihat di website pribadi saya:
-
-👉 **https://nexertc.github.io/websitear**
-
----
-
-## 🛠️ Skills & Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma,bootstrap,tailwind,git,github,vscode&perline=6" />
-</p>
-
-**Core Skills:**
-- HTML, CSS, JavaScript  
-- PHP & MySQL  
-- UI/UX Design (Figma)  
-- Responsive Web Design  
-- Frontend & Backend Logic  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nexertc&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nexertc&theme=chartreuse-dark&hide_border=true" height="165"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://nexertc.github.io/websitear">
-    <img src="https://img.shields.io/badge/Website-39FF14?style=for-the-badge&logo=google-chrome&logoColor=black"/>
-  </a>
   <a href="https://github.com/Nexertc">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
+</div>
+
+
 ---
 
-<h4 align="center">
-  ⭐ More about me, projects, and experience → 
-  <a href="https://nexertc.github.io/websitear">Visit My Website</a>
-</h4>
+# 👨‍💻 About Me
+
+```js
+const Nexertc = {
+  location: "Indonesia",
+  role: ["Web Developer", "UI/UX Designer"],
+  focus: "Modern & Responsive Website",
+  mainproject: ["React", "vite"],
+  tools: ["Figma", "VS Code", "GitHub"],
+};
+```
+
+💡 Saya adalah seorang **Web Developer dari Indonesia** yang fokus membangun website modern, cepat, dan responsive.
+
+🎨 Mulai dari desain UI/UX di **Figma** hingga implementasi frontend & backend.
+
+🚀 Saya suka membuat tampilan yang clean, modern, dan interaktif.
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,tailwind,bootstrap,figma,git,github,vscode&perline=6"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Nexertc&theme=transparent&hide_border=true&ring=00ff99&fire=00ff99&currStreakLabel=00ff99"/>
+
+</div>
+
+---
+
+# 🚀 Featured Skills
+
+<div align="center">
+
+| Frontend | Design |
+|---|---|
+| HTML |  Figma |
+| CSS | UI/UX |
+| JavaScript |  Responsive Design |
+| React |  Modern Layout |
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://nexertc.github.io/websitear">
+  <img src="https://img.shields.io/badge/🌍_Website-00ff99?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+</a>
+
+<a href="https://github.com/Nexertc">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Turning ideas into modern digital experiences"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00ff99,100:00c3ff"/>
+
+</div>
